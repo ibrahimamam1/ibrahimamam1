@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrahimamam1
-- 👀 I’m interested in system programming
+- 👀 I’m interested in building fun stuff
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ibrahima59@iut-dhaka.edu
