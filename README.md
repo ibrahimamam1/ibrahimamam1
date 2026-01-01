@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimamam1(rgb)
-- compilers are really cool and Operating systems rock.
-- RL has  too much aura.
+- i think compilers are really cool.
+- i like solving games using reinforcement learning and making systems run fast.
 - 📫 You can reach me at ibrahimamam42@gmail.com
 
 # Projects
