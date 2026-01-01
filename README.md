@@ -10,8 +10,9 @@
 - [rbittorent](https://github.com/ibrahimamam1/rbittorrent) : A cli bittorrent client
 
 ## Machine Learning and AI
-2. [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
-3. [Vision Transformer For Brain Tumour Detection](https://github.com/ibrahimamam1/Brain-Tumour-Detection)
+- [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
+- [Vision Transformer For Brain Tumour Detection](https://github.com/ibrahimamam1/Brain-Tumour-Detection) : Vision Tranformer Trained For Brain Tumour Detection
+- [hanoirl](https://github.com/ibrahimamam1/HanoiRL) : Tower Of Hanoi Puzzle Solved Using Reinforcement Learning
 
 ## General
 4. [TermiNet](https://github.com/ibrahimamam1/termiNet) : A reddit inspired networking app written in c++ and Qt.
