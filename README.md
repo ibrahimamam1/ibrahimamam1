@@ -8,6 +8,7 @@
 ## Systems
 - [memcpp](https://github.com/ibrahimamam1/memcpp) : A user space memory management library written in c++
 - [rbittorent](https://github.com/ibrahimamam1/rbittorrent) : A cli bittorrent client
+- [yaci](https://github.com/ibrahimamam1/yaci): Yet Another Chip 8 Interpreter
 
 ## Machine Learning and AI
 - [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
