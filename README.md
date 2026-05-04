@@ -13,6 +13,7 @@
 ## Machine Learning and AI
 - [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
 - [Vision Transformer For Brain Tumour Detection](https://github.com/ibrahimamam1/Brain-Tumour-Detection) : Vision Tranformer Trained For Brain Tumour Detection
+- [scratch learn](https://github.com/ibrahimamam1/scratch_learn): An implementation of common machine learning algorithms from scratch
 - [hanoirl](https://github.com/ibrahimamam1/HanoiRL) : Tower Of Hanoi Puzzle Solved Using Reinforcement Learning
 
 ## General
