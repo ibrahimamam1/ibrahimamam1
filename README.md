@@ -14,11 +14,8 @@
 - [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
 - [Vision Transformer For Brain Tumour Detection](https://github.com/ibrahimamam1/Brain-Tumour-Detection) : Vision Tranformer Trained For Brain Tumour Detection
 - [scratch learn](https://github.com/ibrahimamam1/scratch_learn): An implementation of common machine learning algorithms from scratch
-- [hanoirl](https://github.com/ibrahimamam1/HanoiRL) : Tower Of Hanoi Puzzle Solved Using Reinforcement Learning
+- [scratchRL](https://github.com/ibrahimamam1/scratchRL): Collection of RL environments and Algorithms
 
 ## General
-4. [TermiNet](https://github.com/ibrahimamam1/termiNet) : A reddit inspired networking app written in c++ and Qt.
-5. [Chronicles Of Ranoa](https://github.com/ibrahimamam1/ChroniclesOf-Ranoa): A 2D RPG game written in Java.
-
-## Misc
-6. [Project Euler](https://github.com/ibrahimamam1/project_euler): Solution to problems from projecteuler.net
+- [TermiNet](https://github.com/ibrahimamam1/termiNet) : A reddit inspired networking app written in c++ and Qt.
+- [Chronicles Of Ranoa](https://github.com/ibrahimamam1/ChroniclesOf-Ranoa): A 2D RPG game written in Java.
