@@ -11,7 +11,7 @@
 - [yaci](https://github.com/ibrahimamam1/yaci): Yet Another Chip 8 Interpreter
 
 ## Machine Learning and AI
-- [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for matrix vector operations
+- [linalg](https://github.com/ibrahimamam1/LinAlg) : A C++ library for linear algebra.
 - [Vision Transformer For Brain Tumour Detection](https://github.com/ibrahimamam1/Brain-Tumour-Detection) : Vision Tranformer Trained For Brain Tumour Detection
 - [scratch learn](https://github.com/ibrahimamam1/scratch_learn): An implementation of common machine learning algorithms from scratch
 - [scratchRL](https://github.com/ibrahimamam1/scratchRL): Collection of RL environments and Algorithms
