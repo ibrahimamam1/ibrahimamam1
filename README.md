@@ -6,6 +6,7 @@
 # Projects
 
 ## Systems
+- [Netpulse NOC](https://github.com/ibrahimamam1) : End-to-end Network Operations Center (NOC) and automated failover platform 
 - [memcpp](https://github.com/ibrahimamam1/memcpp) : A user space memory management library written in c++
 - [rbittorent](https://github.com/ibrahimamam1/rbittorrent) : A cli bittorrent client
 - [yaci](https://github.com/ibrahimamam1/yaci): Yet Another Chip 8 Interpreter
